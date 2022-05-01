@@ -1,7 +1,7 @@
 # Semantic-Image-Segmentation-
 
 ## General project idea
-Semantic Image segmentation seeks to label the pixels in an image with a particular class label. This differs from instance segmentation as instance segmentation seeks to separate each instance of the class while semantic segmentation doesn’t inherently distinguish between instances of a class. Eg, when examining a picture of two dogs, semantic segmentation would classify both as ‘dog’ whereas instance segmentation would classify the first dog from the second.
+Semantic Image segmentation seeks to label the pixels in an image with a particular class label. This differs from instance segmentation as instance segmentation seeks to separate each instance of the class while semantic segmentation doesn’t inherently distinguish between instances of a class. Eg, when examining a picture of person riding bicycle, semantic segmentation would classify both ‘person’ and 'byiycle'.
 
 ![image](https://user-images.githubusercontent.com/28123822/166157757-44c6cdd0-3d23-45fa-ad98-08e8bbacf170.png)
 Image Source (http://host.robots.ox.ac.uk/pascal/VOC/voc2012/#devkit)
