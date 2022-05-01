@@ -12,4 +12,4 @@ The PASCAL VOC[3] (Visual Object Classes) in 2012 dataset is large-scale object 
 ## Instructions to run the code:
 1) open the notebook in google golab with the link avilable on top of the file "Semantic_Segmentaion_Pascal_Voc_Final.ipynb".
 2) Connect to GPU 
-3) Run the file
+3) Run the notebook
